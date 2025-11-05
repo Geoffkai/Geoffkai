@@ -1,4 +1,4 @@
-👋 Hi — I'm Geoff Tomagan
+# 👋 Hi — I'm Geoff Tomagan
 
 
 🎯 Learning **Cybersecurity • Penetration Testing • Ethical Hacking**  
@@ -11,6 +11,7 @@
 ### 🧰 Tools & Technologies
 <p align="center"
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,java,javascript,html,css,c" />
+</p>
   <!--
   <img alt="nmap" src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
   <img alt="metasploit" src="https://img.shields.io/badge/Metasploit-8A2BE2?style=flat-square&logo=metasploit&logoColor=white" />
@@ -18,7 +19,7 @@
   <img alt="wireshark" src="https://img.shields.io/badge/Wireshark-005C9C?style=flat-square&logo=wireshark&logoColor=white" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   -->
-</p>
+
 <!--
 ### 📈 GitHub Stats
 <p align="center">
