@@ -10,7 +10,7 @@
 
 ### 🧰 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker" /> 
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,java,javascript,html,css" /> 
   <img alt="nmap" src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
   <img alt="metasploit" src="https://img.shields.io/badge/Metasploit-8A2BE2?style=flat-square&logo=metasploit&logoColor=white" />
   <img alt="burpsuite" src="https://img.shields.io/badge/BurpSuite-FF6A00?style=flat-square&logo=burpsuite&logoColor=white" />
