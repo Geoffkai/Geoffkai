@@ -40,7 +40,7 @@
 
 ---
 
-Driven by curiosity and patience — taking things one step at a time.
+✨Driven by **curiosity** and **patience** — taking things one step at a time.✨
 
 ---
 <!--
