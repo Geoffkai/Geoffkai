@@ -11,6 +11,7 @@
 ### 🧰 Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,java,javascript,html,css,c" />
+</br>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6A00?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
