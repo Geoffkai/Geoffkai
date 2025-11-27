@@ -27,7 +27,7 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/geoffrey-adam-tomagan-238034286/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
   <a href="https://tryhackme.com/p/tomagan.geoffreyadam" target="_blank">
